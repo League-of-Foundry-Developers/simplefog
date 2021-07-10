@@ -1,7 +1,7 @@
 {
-	"SIMPLEFOG.brushOpacity": "ブラシの濃度",
-	"SIMPLEFOG.brushSize": "ブラシサイズ",
-	"SIMPLEFOG.hide": "濃い",
+  "SIMPLEFOG.brushOpacity": "ブラシの濃度",
+  "SIMPLEFOG.brushSize": "ブラシサイズ",
+  "SIMPLEFOG.hide": "濃い",
   "SIMPLEFOG.reveal": "薄い",
   "SIMPLEFOG.gmFogSettings": "霧の設定（GM用）",
   "SIMPLEFOG.color": "色",
@@ -17,6 +17,7 @@
   "SIMPLEFOG.visibilitySettings": "可視性の設定",
   "SIMPLEFOG.enableAutovis": "自動可視化を有効にする",
   "SIMPLEFOG.enableForGM": "GMにも適用する",
+  "SIMPLEFOG.enableAutoFog": "新しいシーンでフォグを自動的に有効にします。",
   "SIMPLEFOG.visThreshold": "視認性の閾値",
   "SIMPLEFOG.saveAsDef": "この設定をデフォルトに保存",
   "SIMPLEFOG.ok": "適用",
@@ -30,6 +31,9 @@
   "SIMPLEFOG.sceneConfig": "シーン設定",
   "SIMPLEFOG.reset": "霧のリセット",
   "SIMPLEFOG.confirmReset": "霧が初期化されます。本当によろしいですか？",
+  "SIMPLEFOG.autoFogSettings": "オートフォグ設定",
+  "SIMPLEFOG.autoFogNotes": "この機能を有効にしてデフォルトで保存すると、シーンを作成時にフォグが自動的にレンダリングされます。有効にするにはチェックボックスにチェックを入れ、「この設定をデフォルトに保存」をクリックしてください。無効にする場合も同様です。",
+
   "SIMPLEFOG.autoVisNotes": "自動可視化を有効にすると、その場所のトークンの表示/非表示が、閾値として設定した霧の濃度に基づいて決定されるようになります。非表示となる濃度では、ブラシの色が緑から赤に変化してそれを知らせます。",
   "SIMPLEFOG.fogImageSettings": "画像設定",
   "SIMPLEFOG.fogImage": "霧を上書きする画像",
